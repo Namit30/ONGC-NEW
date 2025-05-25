@@ -1,4 +1,4 @@
-# ONGC News Portal
+# ONGC News Portal💻
 
 Welcome to the ONGC News Portal! This Vue.js application provides users with up-to-date news and events from ONGC (Oil and Natural Gas Corporation Limited). It features a clean and modern interface with user-friendly navigation and interactive elements.
 
